@@ -2,7 +2,7 @@ from google.cloud import texttospeech
 import os
 import sys  # Add this line to import the sys module
  
-# Set the path to your service account key
+# Set the path to your service account key(change the filename "google.json" your credentials filename)
 os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "./google.json"
 
 # Initialize TTS client
