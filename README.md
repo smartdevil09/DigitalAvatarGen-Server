@@ -15,4 +15,7 @@ User-Friendly Interface: Designed for creators of all levels—no video editing 
 Custom Persona Selection: Choose from a library of diverse digital avatars to suit your brand or message.
 
 ## Detailed Information about project Stages
-https://digitalavatargen.wordpress.com/ 
+Review following links for more information:
+* https://digitalavatargen.wordpress.com/
+* https://github.com/smartdevil09/DigitalAvatarGen-Server/tree/master
+* https://github.com/Nisha-Bagdwal/DigitalAvatarGen/tree/main/digital-avatar-gen
